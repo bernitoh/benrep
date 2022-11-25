@@ -1,0 +1,27 @@
+footer
+{
+    background-color: gray;
+    height: 80px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+    text-align: center;
+}
+footer a
+{
+    padding-left: 40px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+   
+}
+footer p
+{
+    text-align: center; 
+    color: rgb(92, 49, 49);
+    font-size: 40px;
+}
